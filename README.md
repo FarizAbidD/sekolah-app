@@ -38,4 +38,12 @@ Sekolah Application is a Spring Boot-based web application designed to manage st
 - `/api/user/addSubjects` - Assign subjects to a user
 - `/api/user/getListUser` - Fetch list of users based on filters (name, major, grade)
 
+## Postman Collection
+
+A Postman collection for testing the Sekolah Application API is included in this repository the file name is `SEKOLAH.postman_collection.json`.
+
+## SQL DB
+
+Sql Db is included with file `Sekolah.sql`
+
 ---
